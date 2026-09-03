@@ -1,0 +1,6 @@
+{
+  "name": "Stock Price Predictor",
+  "description": "Machine learning application in Python for stock price prediction featuring historical data loading, feature engineering, regression training, and future price forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
